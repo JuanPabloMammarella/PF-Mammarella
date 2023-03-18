@@ -40,8 +40,9 @@ body li {
 }
 body .empa {
   text-align: center;
-  margin-left: 20px;
-  margin-right: 20px;
+  margin-left: 25px;
+  margin-right: 25px;
+  font-size: x-large;
 }
 body .barrainicial {
   background-color: rgb(237, 237, 179);
@@ -74,20 +75,27 @@ body main h3 {
   width: 90vw;
 }
 body .ambientacion {
-  width: 90vw;
-  margin: 5vw;
+  width: 80vw;
+  margin: 10vw;
 }
 body .entradas {
   width: 90vw;
   margin: 5vw;
 }
 body .empanadas {
-  width: 80vw;
-  margin: 10vw;
+  width: 35vw;
+  margin: 5vw;
 }
 body .container-fluid {
   text-align: center;
   font-size: larger;
+}
+body .fotoprincipal {
+  width: 60vw;
+  margin: 10vw;
+}
+body .ingredientes {
+  font-size: xx-large;
 }
 
 footer .whatsapp {
